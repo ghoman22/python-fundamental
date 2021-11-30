@@ -2,7 +2,7 @@
 program perulangan dengan WHILE
 """
 
-jumlah_buku =100
+jumlah_buku =10
 print('Perintah ibu "Baca semua bukumu"')
 
 jumlah_buku_yang_dibaca = 0
